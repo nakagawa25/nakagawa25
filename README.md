@@ -49,14 +49,12 @@
   <br/>
   <img align='right' src='https://github-readme-stats.vercel.app/api?username=nakagawa25&show_icons=true&theme=dark' alt='Github status'/>
   
-  - 💼 I’m currently working at Wipro
+  - 💼 Working at Wipro
     
-  - 👨🏼‍🏫 I’m currently learning more about Software Architect
+  - 👨🏼‍🏫 Learning about Software Architect
 
-  - 🥋 Taekwondo Champion 🥇 (Campeonato Paulista, 2024)
+  - 🥋 Taekwondo Champion 🥇 (Paulista, 2024)
 
-  - 🥋 Taekwondo Championship 🥉 (International, 2023)
-
+  - 🥋 Taekwondo 3° Place 🥉 (International, 2023)
+    
 </div>
-
-
