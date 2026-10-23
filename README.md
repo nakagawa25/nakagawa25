@@ -49,7 +49,7 @@
   <br/>
   <img align='right' src='https://github-readme-stats.vercel.app/api?username=nakagawa25&show_icons=true&theme=dark' alt='Github status'/>
   
-  - 💼 Working at Wipro
+  - 💼 Working at Rodobens
     
   - 👨🏼‍🏫 Learning about Software Architect
 
