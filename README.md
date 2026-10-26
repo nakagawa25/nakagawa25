@@ -53,7 +53,7 @@
     
   - 👨🏼‍🏫 Learning about Software Architect
 
-  - 🥋 Taekwondo Champion 🥇 (Paulista, 2024)
+  - 🥋 Taekwondo Champion 🥇 (Paulista, 2024 & 2026)
 
   - 🥋 Taekwondo 3° Place 🥉 (International, 2023)
     
