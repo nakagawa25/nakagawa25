@@ -4,7 +4,7 @@
 
 <div align='center'>
   <p>
-    Software Engineer with over 5+ years of experience in software development 💻. Graduated at two universities at the same time, Computer Engineering 👨‍💻 and Security Information 🔐.
+    Software Engineer with over75+ years of experience in software development 💻. Graduated at two universities at the same time, Computer Engineering 👨‍💻 and Security Information 🔐.
   </p>
   <a href='https://www.linkedin.com/in/lucas-nakagawa/'>
     <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white' alt='LinkedIn'/>
@@ -40,7 +40,6 @@
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 </div>
